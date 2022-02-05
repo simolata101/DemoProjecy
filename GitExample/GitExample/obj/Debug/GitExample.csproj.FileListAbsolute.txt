@@ -1,0 +1,1 @@
+C:\_Projects\temp\DemoProjecy\DemoProjecy\GitExample\GitExample\bin\Debug\GitExample.exe.config
