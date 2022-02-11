@@ -286,7 +286,8 @@
             this.btnLogout.AnimationHoverSpeed = 0.07F;
             this.btnLogout.AnimationSpeed = 0.03F;
             this.btnLogout.BaseColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(207)))), ((int)(((byte)(244)))));
-            this.btnLogout.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(207)))), ((int)(((byte)(244)))));
+            this.btnLogout.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(63)))), ((int)(((byte)(188)))), ((int)(((byte)(239)))));
+            this.btnLogout.BorderSize = 3;
             this.btnLogout.CheckedBaseColor = System.Drawing.Color.Gray;
             this.btnLogout.CheckedBorderColor = System.Drawing.Color.Black;
             this.btnLogout.CheckedForeColor = System.Drawing.Color.White;
@@ -417,7 +418,8 @@
             this.btnSystemLogs.AnimationHoverSpeed = 0.07F;
             this.btnSystemLogs.AnimationSpeed = 0.03F;
             this.btnSystemLogs.BaseColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(207)))), ((int)(((byte)(244)))));
-            this.btnSystemLogs.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(207)))), ((int)(((byte)(244)))));
+            this.btnSystemLogs.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(63)))), ((int)(((byte)(188)))), ((int)(((byte)(239)))));
+            this.btnSystemLogs.BorderSize = 3;
             this.btnSystemLogs.CheckedBaseColor = System.Drawing.Color.Gray;
             this.btnSystemLogs.CheckedBorderColor = System.Drawing.Color.Black;
             this.btnSystemLogs.CheckedForeColor = System.Drawing.Color.White;
@@ -548,7 +550,8 @@
             this.btnAccounts.AnimationHoverSpeed = 0.07F;
             this.btnAccounts.AnimationSpeed = 0.03F;
             this.btnAccounts.BaseColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(207)))), ((int)(((byte)(244)))));
-            this.btnAccounts.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(207)))), ((int)(((byte)(244)))));
+            this.btnAccounts.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(63)))), ((int)(((byte)(188)))), ((int)(((byte)(239)))));
+            this.btnAccounts.BorderSize = 3;
             this.btnAccounts.CheckedBaseColor = System.Drawing.Color.Gray;
             this.btnAccounts.CheckedBorderColor = System.Drawing.Color.Black;
             this.btnAccounts.CheckedForeColor = System.Drawing.Color.White;
@@ -749,7 +752,8 @@
             this.btnReports.AnimationHoverSpeed = 0.07F;
             this.btnReports.AnimationSpeed = 0.03F;
             this.btnReports.BaseColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(207)))), ((int)(((byte)(244)))));
-            this.btnReports.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(207)))), ((int)(((byte)(244)))));
+            this.btnReports.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(63)))), ((int)(((byte)(188)))), ((int)(((byte)(239)))));
+            this.btnReports.BorderSize = 3;
             this.btnReports.CheckedBaseColor = System.Drawing.Color.Gray;
             this.btnReports.CheckedBorderColor = System.Drawing.Color.Black;
             this.btnReports.CheckedForeColor = System.Drawing.Color.White;
@@ -880,7 +884,8 @@
             this.btnRegistration.AnimationHoverSpeed = 0.07F;
             this.btnRegistration.AnimationSpeed = 0.03F;
             this.btnRegistration.BaseColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(207)))), ((int)(((byte)(244)))));
-            this.btnRegistration.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(207)))), ((int)(((byte)(244)))));
+            this.btnRegistration.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(63)))), ((int)(((byte)(188)))), ((int)(((byte)(239)))));
+            this.btnRegistration.BorderSize = 3;
             this.btnRegistration.CheckedBaseColor = System.Drawing.Color.Gray;
             this.btnRegistration.CheckedBorderColor = System.Drawing.Color.Black;
             this.btnRegistration.CheckedForeColor = System.Drawing.Color.White;
@@ -914,7 +919,8 @@
             this.btnDashboard.AnimationHoverSpeed = 0.07F;
             this.btnDashboard.AnimationSpeed = 0.03F;
             this.btnDashboard.BaseColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(207)))), ((int)(((byte)(244)))));
-            this.btnDashboard.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(207)))), ((int)(((byte)(244)))));
+            this.btnDashboard.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(63)))), ((int)(((byte)(188)))), ((int)(((byte)(239)))));
+            this.btnDashboard.BorderSize = 3;
             this.btnDashboard.CheckedBaseColor = System.Drawing.Color.Gray;
             this.btnDashboard.CheckedBorderColor = System.Drawing.Color.Black;
             this.btnDashboard.CheckedForeColor = System.Drawing.Color.White;
