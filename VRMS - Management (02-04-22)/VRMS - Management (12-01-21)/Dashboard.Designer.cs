@@ -229,7 +229,7 @@
             this.lblAdminID.AutoSize = true;
             this.lblAdminID.Font = new System.Drawing.Font("Arial Unicode MS", 14.25F, System.Drawing.FontStyle.Bold);
             this.lblAdminID.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(44)))), ((int)(((byte)(53)))), ((int)(((byte)(49)))));
-            this.lblAdminID.Location = new System.Drawing.Point(464, 29);
+            this.lblAdminID.Location = new System.Drawing.Point(465, 29);
             this.lblAdminID.Name = "lblAdminID";
             this.lblAdminID.Size = new System.Drawing.Size(98, 25);
             this.lblAdminID.TabIndex = 6;
